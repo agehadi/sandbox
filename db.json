@@ -16,15 +16,15 @@
   "todos": [
     {
        "id": 1,
-    "text": "ksjdfhk sdj"
+      "text": "ksjdfhk sdj"
     },
      {
        "id": 2,
-    "text": "sldkfjls"
+      "text": "sldkfjls"
     },
     {
        "id": 3,
-    "text": "sdkfhl sdlkfj "
-    },
+      "text": "sdkfhl sdlkfj"
+    }
   ]
 }
