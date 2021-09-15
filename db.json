@@ -11,7 +11,10 @@
   ],
   "profile": {
     "name": "typicode",
-    "type": "tc"
+    "type1": "tc",
+    "type2": "tc",
+    "type3": "tc",
+    "type4": "tc"
   },
   "todos": [
     {
