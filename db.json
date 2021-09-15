@@ -20,10 +20,10 @@
       "completed": false
     },
     {
-      userId: 1,
-      id: 1,
-      title: "delectus aut babi",
-      completed: true
+      "userId": 1,
+      "id": 1,
+      "title": "delectus aut babi",
+      "completed": true
     },
   ],
 }
