@@ -12,5 +12,19 @@
   "profile": {
     "name": "typicode",
     "type": "tc"
-  }
+  },
+  "todos": [
+    {
+       "id": 1,
+    "text": "ksjdfhk sdj"
+    },
+     {
+       "id": 2,
+    "text": "sldkfjls"
+    },
+    {
+       "id": 3,
+    "text": "sdkfhl sdlkfj "
+    },
+  ]
 }
