@@ -15,16 +15,26 @@
   },
   "todos": [
     {
-       "id": 1,
+      "id": 1,
       "text": "ksjdfhk sdj"
     },
-     {
-       "id": 2,
+    {
+      "id": 2,
       "text": "sldkfjls"
     },
     {
-       "id": 3,
+      "id": 3,
       "text": "sdkfhl sdlkfj"
     }
-  ]
+  ],
+  "ayam": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+    {
+      "id": 2,
+      "title": "hello lagi"
+    }
+  ],
 }
