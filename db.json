@@ -39,5 +39,61 @@
       "id": 2,
       "title": "hello lagi"
     }
+  ],
+  "summary": [
+    {
+      "Paket Kontrak": "CP201",
+      "Item": "UG Civil 1. (2.678 km)",
+      "Periode": "58 mo",
+      "Deskripsi": "2 Underground stations. Bored tunnel (1.96 km). C&C tunnel (0.22km)",
+      "Bid start": "Mei 2021",
+      "Status": "Progres Fisik CP201 as per 25 Agustus 2021 (aktual 20.46%/ rencana 19.84%) meliputi:\nStasiun Thamrin : Pekerjaan D-Wall pada area TBM Shaft Utara, pekerjaan jet grout pada shaft selatan, Pekerjaan sheet pile removal dan pekerjaan retaining wall untuk persiapanTBM openingdi area utara Bundaran HI.\nStasiun Monas : D-Wall Stasiun Monas, Kingpost stasiun monas dan Penggalian Concourse level pada shaft selatan",
+      "Kontrak (Commencement)": "15 Jun 2021"
+    },
+    {
+      "Paket Kontrak": "CP202-205A",
+      "Item": "UG Civil 2. (1.827 km) & E&M Systems and Trackwork",
+      "Periode": "74 mo",
+      "Deskripsi": "3 Underground St.Bored tunnel (1.19 km). \nE&M System & Track (BHI  Mangga Besar)",
+      "Bid start": "Jan 2021. (DC)",
+      "Status": "Kandidat mengumpulkan Non-Binding Proposal yang disesuaikan menjadi 12 tahap pengumpulan. \nKandidat akan langsung mengumpulkan Final Proposal pada September 2021.\nForum Group Discussion dengan BPKP telah dilaksanakan 4 kali sebagai bagian dari proses pendampingan.\nKick off meeting Early Works Bersama kandidat pada 19 Agustus 2021. \nSaat ini sedang dilakukan negosiasi Technical & Cost Proposal",
+      "Kontrak (Commencement)": "Sep 2021"
+    },
+    {
+      "Paket Kontrak": "CP203",
+      "Item": "UG Civil 3. (1.296 km)",
+      "Periode": "63 mo",
+      "Deskripsi": "2 Underground St. Bored tunnel (0.69 km). \nC&C tunnel (0.18km)",
+      "Bid start": "Feb 2020. (Re-tender)",
+      "Status": "Telah dilaksakan penandatanganan Contract Agreement antara PT MRTJ dengan SMCC-HK JO: 19 April 2021. Rencana manajemen rekayasa lalu lintas (MRLL) pada Stasiun Kota akan dilakukan pada 1 September 2021 namun belum akan dilakukan penutupan Jl. Pintu Besar Selatan sebagaimana arahan Dishub. Penutupan Jl. Pintu Besar Selatan menunggu kemajuan penanganan PKL dan Parkir on street di Jl. Pancoran dan Jl. Pinangsia Raya.",
+      "Kontrak (Commencement)": "Sep 2021"
+    },
+    {
+      "Paket Kontrak": "CP208",
+      "Item": "E&M Systems and Trackwork",
+      "Periode": "65 mo",
+      "Deskripsi": "E&M System (Mangga Besar  Kota)",
+      "Bid start": "Mei 2021",
+      "Status": "Call for tender CP208 telah dimulai pada 20 Mei 2021 dan terdapat 3 kandidat (Toyo, Mitsubishi & Sumitomo) yang telah mengambil dokumen tender.Telah menyampaikan Addendum No. 1 (8 Juni 2021), Addendum No. 2 (10 Juli 2021) dan Addendum No. 3 (9 Agt 2021) dengan submission deadline di 16 September 2021. Tidak terdapat pertanyaan yang diajukan oleh Peserta Lelang selama masa Klarifikasi",
+      "Kontrak (Commencement)": "Apr 2022"
+    },
+    {
+      "Paket Kontrak": "CP206",
+      "Item": "Rolling Stock",
+      "Periode": "62 mo",
+      "Deskripsi": "14 Trainset",
+      "Bid start": "Q3 2021",
+      "Status": "Mei 21, JICA mengusulkan untuk menggunakan skema opsi 3 yaitu dengan Pengadaan 14TS.\nTelah melakukan Market Sounding pada 21 Juli 2021 kembali. Hingga saat ini terdapat 2 manufaktur yang merespon positif pengadaan 7TS (Nippon Sharyo & Kawasaki), sedangkan 2 lainnya (Hitachi & Mitsubishi/Kinki Sharyo) merespon positif untuk 14TS. \nPermohonan JICA Concurrence telah dikirimkan pada 19 Agustus 2021",
+      "Kontrak (Commencement)": "Q3-22"
+    },
+    {
+      "Paket Kontrak": "CP207",
+      "Item": "AFC",
+      "Periode": "59 mo",
+      "Deskripsi": "AFC System Phase 2\nEnhancement of AFC System Fase1",
+      "Bid start": "Q4 2021",
+      "Status": "Penyesuaian Dokumen Tender terhadap konsep, lingkup kerja dan roadmap dari Perusahaan EFC (PT JakLingko Indonesia) terhadap sistem ticketing.\nSaat ini sedang dilakukan koordinasi dengan PT JLI terkait perencanaan penggunaan MTT sebagai Kartu Transportasi.",
+      "Kontrak (Commencement)": "Q4-22"
+    }
   ]
 }
